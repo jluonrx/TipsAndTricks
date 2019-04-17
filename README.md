@@ -14,29 +14,33 @@ These are the main technologies involved but we also have some microservices to 
 
 ## Microservices and Important Terminology 
 <br>
-### Bonita 
+
+> Bonita 
 
 Bonitasoft is the software which we use to handle the **workflows**. For a quick definition, workflows are the sequence of industrial, administrative, or other processes through which a piece of work passes from initiation to completion. 
 
 In our CloudSolution, we handle various sequences for *Adding Equipment*, *Modifying Equipment*, *Adding Functional Locations*, *Modifying Functional Locations*, *Adding Material*, *Modifying Material*, etc. The information for these processes flow through bonita. 
 
-<br> 
-### Obsidian 
+<br>
+
+> Obsidian 
 
 Obsidian is the software which we use to **schedule jobs**. 
 
 <br> 
-### Gene Editor 
+
+> Gene Editor 
 
 <br> 
-### Trigger Script 
+
+> Trigger Script 
 
 
 
 
 
 <br><br> 
-# DOCUMENTED ISSUES (REFER HERE IF YOU RUN INTO ANYTHING YOU ARE UNSURE OF)
+# Documented Issues
 <br>
 ## Tomcat Issues 
 
