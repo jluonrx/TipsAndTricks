@@ -21,6 +21,16 @@ Bonitasoft is the software which we use to handle the **workflows**. For a quick
 
 In our CloudSolution, we handle various sequences for *Adding Equipment*, *Modifying Equipment*, *Adding Functional Locations*, *Modifying Functional Locations*, *Adding Material*, *Modifying Material*, etc. The information for these processes flow through bonita. 
 
+Login Information: 
+```
+URL: http://localhost:8080/bonita/
+Username: admin
+Password: !@#$%^%*()(**^%$#@@SECRET^~^-__)(09<.,.,[[
+```
+
+
+
+
 <br>
 
 ### Obsidian 
